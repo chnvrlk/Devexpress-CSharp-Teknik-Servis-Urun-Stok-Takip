@@ -1,0 +1,10 @@
+D:\Yazılım Proje\TeknikServis\TeknikServisCore\bin\Debug\NLog.config
+D:\Yazılım Proje\TeknikServis\TeknikServisCore\bin\Debug\TeknikServisCore.dll
+D:\Yazılım Proje\TeknikServis\TeknikServisCore\bin\Debug\TeknikServisCore.pdb
+D:\Yazılım Proje\TeknikServis\TeknikServisCore\bin\Debug\NLog.dll
+D:\Yazılım Proje\TeknikServis\TeknikServisCore\bin\Debug\NLog.xml
+D:\Yazılım Proje\TeknikServis\TeknikServisCore\obj\Debug\TeknikServisCore.csprojAssemblyReference.cache
+D:\Yazılım Proje\TeknikServis\TeknikServisCore\obj\Debug\TeknikServisCore.csproj.CoreCompileInputs.cache
+D:\Yazılım Proje\TeknikServis\TeknikServisCore\obj\Debug\TeknikServisCore.csproj.CopyComplete
+D:\Yazılım Proje\TeknikServis\TeknikServisCore\obj\Debug\TeknikServisCore.dll
+D:\Yazılım Proje\TeknikServis\TeknikServisCore\obj\Debug\TeknikServisCore.pdb

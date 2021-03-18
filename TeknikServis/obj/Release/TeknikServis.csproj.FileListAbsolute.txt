@@ -1,0 +1,499 @@
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\TeknikServis.exe.config
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\TeknikServis.exe
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\TeknikServis.pdb
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Charts.v18.1.Core.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Data.v18.1.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.DataAccess.v18.1.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Images.v18.1.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Map.v18.1.Core.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Office.v18.1.Core.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Pdf.v18.1.Core.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.PivotGrid.v18.1.Core.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Printing.v18.1.Core.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.RichEdit.v18.1.Core.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.RichEdit.v18.1.Export.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Sparkline.v18.1.Core.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Utils.v18.1.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Utils.v18.1.UI.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Xpo.v18.1.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraBars.v18.1.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraCharts.v18.1.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraCharts.v18.1.UI.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraCharts.v18.1.Wizard.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraEditors.v18.1.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraGauges.v18.1.Core.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraGauges.v18.1.Win.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraGrid.v18.1.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraLayout.v18.1.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraMap.v18.1.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraPrinting.v18.1.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraReports.v18.1.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraReports.v18.1.Extensions.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraRichEdit.v18.1.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\EntityFramework.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\EntityFramework.SqlServer.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\FluentValidation.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\MessagingToolkit.QRCode.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\NLog.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\WhatsAppApi.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\zxing.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\zxing.presentation.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.CodeParser.v18.1.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraTreeList.v18.1.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraVerticalGrid.v18.1.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraNavBar.v18.1.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.DataAccess.v18.1.UI.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraCharts.v18.1.Extensions.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraPivotGrid.v18.1.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Diagram.v18.1.Core.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraDiagram.v18.1.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Data.v18.1.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.DataAccess.v18.1.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Map.v18.1.Core.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Office.v18.1.Core.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Pdf.v18.1.Core.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.PivotGrid.v18.1.Core.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Printing.v18.1.Core.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.RichEdit.v18.1.Core.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Sparkline.v18.1.Core.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Utils.v18.1.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Utils.v18.1.UI.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Xpo.v18.1.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraBars.v18.1.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraCharts.v18.1.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraCharts.v18.1.UI.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraCharts.v18.1.Wizard.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraEditors.v18.1.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraGauges.v18.1.Core.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraGauges.v18.1.Win.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraGrid.v18.1.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraLayout.v18.1.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraMap.v18.1.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraPrinting.v18.1.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraReports.v18.1.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraReports.v18.1.Extensions.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraRichEdit.v18.1.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\EntityFramework.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\EntityFramework.SqlServer.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\FluentValidation.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\NLog.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\zxing.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\zxing.presentation.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraTreeList.v18.1.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraVerticalGrid.v18.1.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraNavBar.v18.1.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.DataAccess.v18.1.UI.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraPivotGrid.v18.1.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Diagram.v18.1.Core.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraDiagram.v18.1.xml
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.Data.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.Data.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.Data.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.Data.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.DataAccess.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.DataAccess.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.DataAccess.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.DataAccess.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.Map.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.Map.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.Map.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.Map.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.Office.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.Office.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.Office.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.Office.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.Utils.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.Utils.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.Utils.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.Utils.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.Utils.v18.1.UI.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.Utils.v18.1.UI.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.Utils.v18.1.UI.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.Utils.v18.1.UI.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.Xpo.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.Xpo.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.Xpo.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.Xpo.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.XtraBars.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.XtraBars.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.XtraBars.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.XtraBars.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.XtraCharts.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.XtraCharts.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.XtraCharts.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.XtraCharts.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.XtraGrid.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.XtraGrid.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.XtraGrid.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.XtraGrid.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.XtraLayout.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.XtraLayout.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.XtraLayout.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.XtraLayout.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.XtraReports.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.XtraReports.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.XtraReports.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.XtraReports.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.XtraRichEdit.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.XtraRichEdit.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.XtraRichEdit.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.XtraRichEdit.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.DataAccess.v18.1.UI.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.DataAccess.v18.1.UI.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.DataAccess.v18.1.UI.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.DataAccess.v18.1.UI.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.XtraPivotGrid.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.XtraPivotGrid.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.XtraPivotGrid.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.XtraPivotGrid.v18.1.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.Diagram.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.Diagram.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.Diagram.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.Diagram.v18.1.Core.resources.dll
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Form1.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmAnasayfa.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmArizaDetaylar.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmArizaListesi.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmArizaliUrunDetayListesi.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmArizaliUrunKaydi.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmBarcode.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmBölüm.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmCalisanlar.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmCariistatistikleri.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmCariListesi.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmFaturaKalem.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmFaturaListesi.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmFaturaPopup.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmGauge.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmHaritalar.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmIstatistik.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmKategori.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmKurlar.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmMarkalar.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmNotlar.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmQRCode.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmSatislar.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmUrunListesi.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmYeniCariEkle.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmYeniKategori.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmYeniNot.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmYeniUrun.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmYoutube.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmYeniCalisan.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmÜrünSatış.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Giris.FrmGiris.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Giris.FrmSifremiUnuttum.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Giris.FrmYeniAdminKayıt.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.ILETISIMKlasoru.FrmCariBilgileri.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.ILETISIMKlasoru.FrmGelenMesajlar.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.ILETISIMKlasoru.FrmMail.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.ILETISIMKlasoru.FrmSmsGonder.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Properties.Resources.resources
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.csproj.GenerateResource.cache
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.exe.licenses
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.csproj.CoreCompileInputs.cache
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.csproj.CopyComplete
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.exe
+D:\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.pdb
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.csprojAssemblyReference.cache
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Form1.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmAnasayfa.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmArizaDetaylar.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmArizaListesi.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmArizaliUrunDetayListesi.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmArizaliUrunKaydi.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmBarcode.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmBölüm.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmCalisanlar.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmCariistatistikleri.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmCariListesi.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmFaturaKalem.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmFaturaListesi.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmFaturaPopup.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmGauge.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmHaritalar.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmIstatistik.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmKategori.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmKurlar.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmMarkalar.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmNotlar.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmQRCode.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmSatislar.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmUrunListesi.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmYeniCariEkle.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmYeniKategori.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmYeniNot.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmYeniUrun.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmYoutube.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmYeniCalisan.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Formlar.FrmÜrünSatış.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Giris.FrmGiris.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Giris.FrmSifremiUnuttum.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Giris.FrmYeniAdminKayıt.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.ILETISIMKlasoru.FrmCariBilgileri.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.ILETISIMKlasoru.FrmGelenMesajlar.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.ILETISIMKlasoru.FrmMail.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.ILETISIMKlasoru.FrmSmsGonder.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.Properties.Resources.resources
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.csproj.GenerateResource.cache
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.exe.licenses
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.csproj.CoreCompileInputs.cache
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.exe
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.pdb
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\TeknikServis.exe.config
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\TeknikServis.exe
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\TeknikServis.pdb
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Charts.v18.1.Core.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Data.v18.1.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.DataAccess.v18.1.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Images.v18.1.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Map.v18.1.Core.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Office.v18.1.Core.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Pdf.v18.1.Core.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.PivotGrid.v18.1.Core.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Printing.v18.1.Core.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.RichEdit.v18.1.Core.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.RichEdit.v18.1.Export.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Sparkline.v18.1.Core.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Utils.v18.1.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Utils.v18.1.UI.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Xpo.v18.1.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraBars.v18.1.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraCharts.v18.1.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraCharts.v18.1.UI.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraCharts.v18.1.Wizard.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraEditors.v18.1.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraGauges.v18.1.Core.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraGauges.v18.1.Win.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraGrid.v18.1.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraLayout.v18.1.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraMap.v18.1.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraPrinting.v18.1.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraReports.v18.1.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraReports.v18.1.Extensions.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraRichEdit.v18.1.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\EntityFramework.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\EntityFramework.SqlServer.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\FluentValidation.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\MessagingToolkit.QRCode.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\NLog.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\WhatsAppApi.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\zxing.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\zxing.presentation.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.CodeParser.v18.1.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraTreeList.v18.1.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraVerticalGrid.v18.1.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraNavBar.v18.1.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.DataAccess.v18.1.UI.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraCharts.v18.1.Extensions.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraPivotGrid.v18.1.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Diagram.v18.1.Core.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraDiagram.v18.1.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Data.v18.1.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.DataAccess.v18.1.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Map.v18.1.Core.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Office.v18.1.Core.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Pdf.v18.1.Core.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.PivotGrid.v18.1.Core.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Printing.v18.1.Core.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.RichEdit.v18.1.Core.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Sparkline.v18.1.Core.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Utils.v18.1.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Utils.v18.1.UI.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Xpo.v18.1.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraBars.v18.1.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraCharts.v18.1.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraCharts.v18.1.UI.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraCharts.v18.1.Wizard.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraEditors.v18.1.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraGauges.v18.1.Core.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraGauges.v18.1.Win.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraGrid.v18.1.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraLayout.v18.1.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraMap.v18.1.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraPrinting.v18.1.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraReports.v18.1.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraReports.v18.1.Extensions.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraRichEdit.v18.1.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\EntityFramework.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\EntityFramework.SqlServer.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\FluentValidation.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\NLog.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\zxing.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\zxing.presentation.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraTreeList.v18.1.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraVerticalGrid.v18.1.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraNavBar.v18.1.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.DataAccess.v18.1.UI.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraPivotGrid.v18.1.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.Diagram.v18.1.Core.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\DevExpress.XtraDiagram.v18.1.xml
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.Data.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.Data.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.Data.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.Data.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.DataAccess.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.DataAccess.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.DataAccess.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.DataAccess.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.Map.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.Map.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.Map.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.Map.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.Office.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.Office.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.Office.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.Office.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.Utils.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.Utils.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.Utils.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.Utils.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.Utils.v18.1.UI.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.Utils.v18.1.UI.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.Utils.v18.1.UI.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.Utils.v18.1.UI.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.Xpo.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.Xpo.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.Xpo.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.Xpo.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.XtraBars.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.XtraBars.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.XtraBars.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.XtraBars.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.XtraCharts.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.XtraCharts.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.XtraCharts.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.XtraCharts.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.XtraEditors.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.XtraEditors.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.XtraEditors.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.XtraEditors.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.XtraGrid.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.XtraGrid.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.XtraGrid.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.XtraGrid.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.XtraLayout.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.XtraLayout.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.XtraLayout.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.XtraLayout.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.XtraReports.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.XtraReports.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.XtraReports.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.XtraReports.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.XtraRichEdit.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.XtraRichEdit.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.XtraRichEdit.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.XtraRichEdit.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.DataAccess.v18.1.UI.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.DataAccess.v18.1.UI.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.DataAccess.v18.1.UI.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.DataAccess.v18.1.UI.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.XtraPivotGrid.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.XtraPivotGrid.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.XtraPivotGrid.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.XtraPivotGrid.v18.1.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\de\DevExpress.Diagram.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\es\DevExpress.Diagram.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ja\DevExpress.Diagram.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\bin\Release\ru\DevExpress.Diagram.v18.1.Core.resources.dll
+D:\CİHANNNN - YAZILIMMM\Yazılım Proje\TeknikServis\TeknikServis\obj\Release\TeknikServis.csproj.CopyComplete

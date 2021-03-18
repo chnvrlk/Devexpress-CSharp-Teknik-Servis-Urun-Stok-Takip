@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DbTeknikServisModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="ArizaDetaylar">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Islem" Type="Int32" />
+    <Property Name="Sorun" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Aciklama" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="OnFiyat" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="NetFiyat" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="Islemler" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Bolumler">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Bölüm" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Calisanlar" Relationship="Self.FK_Calisanlar_Bolumler" FromRole="Bolumler" ToRole="Calisanlar" />
+  </EntityType>
+  <EntityType Name="Calisanlar">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Soyad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Bölüm" Type="Int32" />
+    <Property Name="Telefon" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Mail" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="KullaniciAdı" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Sifre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="RoleId" Type="Int32" />
+    <NavigationProperty Name="Bolumler" Relationship="Self.FK_Calisanlar_Bolumler" FromRole="Calisanlar" ToRole="Bolumler" />
+    <NavigationProperty Name="Roller" Relationship="Self.FK_Calisanlar_Roller" FromRole="Calisanlar" ToRole="Roller" />
+  </EntityType>
+  <EntityType Name="Cariler">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Soyad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Telefon" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Mail" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Il" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Ilce" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Adres" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Banka" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="VergiDairesi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="VergiNo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Statu" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Faturalar" Relationship="Self.FK_Faturalar_Cariler" FromRole="Cariler" ToRole="Faturalar" />
+    <NavigationProperty Name="UrunHareketler" Relationship="Self.FK_UrunHareketler_Cariler" FromRole="Cariler" ToRole="UrunHareketler" />
+    <NavigationProperty Name="UrunKabuller" Relationship="Self.FK_UrunKabuller_Cariler" FromRole="Cariler" ToRole="UrunKabuller" />
+  </EntityType>
+  <EntityType Name="FaturaDetaylar">
+    <Key>
+      <PropertyRef Name="FaturaDetayId" />
+    </Key>
+    <Property Name="FaturaDetayId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Urun" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Adet" Type="Int16" />
+    <Property Name="Fiyat" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="Tutar" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="FaturaId" Type="Int32" />
+    <NavigationProperty Name="Faturalar" Relationship="Self.FK_FaturaDetaylar_Faturalar" FromRole="FaturaDetaylar" ToRole="Faturalar" />
+  </EntityType>
+  <EntityType Name="Faturalar">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Seri" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="SiraNo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Tarih" Type="DateTime" Precision="3" />
+    <Property Name="Saat" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="VergiDaire" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Cari" Type="Int32" />
+    <NavigationProperty Name="Cariler" Relationship="Self.FK_Faturalar_Cariler" FromRole="Faturalar" ToRole="Cariler" />
+    <NavigationProperty Name="FaturaDetaylar" Relationship="Self.FK_FaturaDetaylar_Faturalar" FromRole="Faturalar" ToRole="FaturaDetaylar" />
+  </EntityType>
+  <EntityType Name="Giderler">
+    <Key>
+      <PropertyRef Name="GiderId" />
+    </Key>
+    <Property Name="GiderId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="GiderAciklama" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Tarih" Type="DateTime" Precision="3" />
+    <Property Name="Tutar" Type="Decimal" Precision="18" Scale="0" />
+  </EntityType>
+  <EntityType Name="Hakkimizda">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Metin" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Ilceler">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="ilce" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="sehir" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Iller" Relationship="Self.FK_Ilceler_Iller" FromRole="Ilceler" ToRole="Iller" />
+  </EntityType>
+  <EntityType Name="Iletisim">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AdSoyad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Mail" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Konu" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Mesaj" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Iller">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="sehir" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Ilceler" Relationship="Self.FK_Ilceler_Iller" FromRole="Iller" ToRole="Ilceler" />
+  </EntityType>
+  <EntityType Name="Kategoriler">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Byte" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ad" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Urunler" Relationship="Self.FK_Urunler_Kategoriler" FromRole="Kategoriler" ToRole="Urunler" />
+  </EntityType>
+  <EntityType Name="Notlar">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Baslik" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Icerik" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Durum" Type="Boolean" />
+    <Property Name="Tarih" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="Roller">
+    <Key>
+      <PropertyRef Name="RoleId" />
+    </Key>
+    <Property Name="RoleId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="RoleName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Calisanlar" Relationship="Self.FK_Calisanlar_Roller" FromRole="Roller" ToRole="Calisanlar" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="UrunHareketler">
+    <Key>
+      <PropertyRef Name="HareketId" />
+    </Key>
+    <Property Name="HareketId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Urun" Type="Int32" />
+    <Property Name="Musteri" Type="Int32" />
+    <Property Name="Tarih" Type="DateTime" Precision="3" />
+    <Property Name="Adet" Type="Byte" />
+    <Property Name="Fiyat" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="UrunSeriNo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Cariler" Relationship="Self.FK_UrunHareketler_Cariler" FromRole="UrunHareketler" ToRole="Cariler" />
+    <NavigationProperty Name="Urunler" Relationship="Self.FK_UrunHareketler_Urunler" FromRole="UrunHareketler" ToRole="Urunler" />
+  </EntityType>
+  <EntityType Name="UrunKabuller">
+    <Key>
+      <PropertyRef Name="IslemId" />
+    </Key>
+    <Property Name="IslemId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Musteri" Type="Int32" />
+    <Property Name="GelisTarihi" Type="DateTime" Precision="3" />
+    <Property Name="CikisTarihi" Type="DateTime" Precision="3" />
+    <Property Name="UrunSeriNo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="UrunDurum" Type="Boolean" />
+    <Property Name="UrunDurumDetay" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Cariler" Relationship="Self.FK_UrunKabuller_Cariler" FromRole="UrunKabuller" ToRole="Cariler" />
+  </EntityType>
+  <EntityType Name="Urunler">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Marka" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Alis" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="Satis" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="Stok" Type="Int16" />
+    <Property Name="KategoriId" Type="Byte" />
+    <Property Name="Durum" Type="Boolean" />
+    <NavigationProperty Name="Kategoriler" Relationship="Self.FK_Urunler_Kategoriler" FromRole="Urunler" ToRole="Kategoriler" />
+    <NavigationProperty Name="UrunHareketler" Relationship="Self.FK_UrunHareketler_Urunler" FromRole="Urunler" ToRole="UrunHareketler" />
+  </EntityType>
+  <EntityType Name="UrunTakipler">
+    <Key>
+      <PropertyRef Name="TakipId" />
+    </Key>
+    <Property Name="TakipId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Tarih" Type="DateTime" Precision="3" />
+    <Property Name="ACIKLAMA" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="SeriNo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Calisanlar_Bolumler">
+    <End Role="Bolumler" Type="Self.Bolumler" Multiplicity="0..1" />
+    <End Role="Calisanlar" Type="Self.Calisanlar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Bolumler">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Calisanlar">
+        <PropertyRef Name="Bölüm" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Calisanlar_Roller">
+    <End Role="Roller" Type="Self.Roller" Multiplicity="0..1" />
+    <End Role="Calisanlar" Type="Self.Calisanlar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Roller">
+        <PropertyRef Name="RoleId" />
+      </Principal>
+      <Dependent Role="Calisanlar">
+        <PropertyRef Name="RoleId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Faturalar_Cariler">
+    <End Role="Cariler" Type="Self.Cariler" Multiplicity="0..1" />
+    <End Role="Faturalar" Type="Self.Faturalar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cariler">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Faturalar">
+        <PropertyRef Name="Cari" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UrunHareketler_Cariler">
+    <End Role="Cariler" Type="Self.Cariler" Multiplicity="0..1" />
+    <End Role="UrunHareketler" Type="Self.UrunHareketler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cariler">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="UrunHareketler">
+        <PropertyRef Name="Musteri" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UrunKabuller_Cariler">
+    <End Role="Cariler" Type="Self.Cariler" Multiplicity="0..1" />
+    <End Role="UrunKabuller" Type="Self.UrunKabuller" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cariler">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="UrunKabuller">
+        <PropertyRef Name="Musteri" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_FaturaDetaylar_Faturalar">
+    <End Role="Faturalar" Type="Self.Faturalar" Multiplicity="0..1" />
+    <End Role="FaturaDetaylar" Type="Self.FaturaDetaylar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Faturalar">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="FaturaDetaylar">
+        <PropertyRef Name="FaturaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Ilceler_Iller">
+    <End Role="Iller" Type="Self.Iller" Multiplicity="1" />
+    <End Role="Ilceler" Type="Self.Ilceler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Iller">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Ilceler">
+        <PropertyRef Name="sehir" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Urunler_Kategoriler">
+    <End Role="Kategoriler" Type="Self.Kategoriler" Multiplicity="0..1" />
+    <End Role="Urunler" Type="Self.Urunler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kategoriler">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Urunler">
+        <PropertyRef Name="KategoriId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UrunHareketler_Urunler">
+    <End Role="Urunler" Type="Self.Urunler" Multiplicity="0..1" />
+    <End Role="UrunHareketler" Type="Self.UrunHareketler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Urunler">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="UrunHareketler">
+        <PropertyRef Name="Urun" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DbTeknikServisEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="ArizaDetaylar" EntityType="Self.ArizaDetaylar" />
+    <EntitySet Name="Bolumler" EntityType="Self.Bolumler" />
+    <EntitySet Name="Calisanlar" EntityType="Self.Calisanlar" />
+    <EntitySet Name="Cariler" EntityType="Self.Cariler" />
+    <EntitySet Name="FaturaDetaylar" EntityType="Self.FaturaDetaylar" />
+    <EntitySet Name="Faturalar" EntityType="Self.Faturalar" />
+    <EntitySet Name="Giderler" EntityType="Self.Giderler" />
+    <EntitySet Name="Hakkimizda" EntityType="Self.Hakkimizda" />
+    <EntitySet Name="Ilceler" EntityType="Self.Ilceler" />
+    <EntitySet Name="Iletisim" EntityType="Self.Iletisim" />
+    <EntitySet Name="Iller" EntityType="Self.Iller" />
+    <EntitySet Name="Kategoriler" EntityType="Self.Kategoriler" />
+    <EntitySet Name="Notlar" EntityType="Self.Notlar" />
+    <EntitySet Name="Roller" EntityType="Self.Roller" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="UrunHareketler" EntityType="Self.UrunHareketler" />
+    <EntitySet Name="UrunKabuller" EntityType="Self.UrunKabuller" />
+    <EntitySet Name="Urunler" EntityType="Self.Urunler" />
+    <EntitySet Name="UrunTakipler" EntityType="Self.UrunTakipler" />
+    <AssociationSet Name="FK_Calisanlar_Bolumler" Association="Self.FK_Calisanlar_Bolumler">
+      <End Role="Bolumler" EntitySet="Bolumler" />
+      <End Role="Calisanlar" EntitySet="Calisanlar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Calisanlar_Roller" Association="Self.FK_Calisanlar_Roller">
+      <End Role="Roller" EntitySet="Roller" />
+      <End Role="Calisanlar" EntitySet="Calisanlar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Faturalar_Cariler" Association="Self.FK_Faturalar_Cariler">
+      <End Role="Cariler" EntitySet="Cariler" />
+      <End Role="Faturalar" EntitySet="Faturalar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UrunHareketler_Cariler" Association="Self.FK_UrunHareketler_Cariler">
+      <End Role="Cariler" EntitySet="Cariler" />
+      <End Role="UrunHareketler" EntitySet="UrunHareketler" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UrunKabuller_Cariler" Association="Self.FK_UrunKabuller_Cariler">
+      <End Role="Cariler" EntitySet="Cariler" />
+      <End Role="UrunKabuller" EntitySet="UrunKabuller" />
+    </AssociationSet>
+    <AssociationSet Name="FK_FaturaDetaylar_Faturalar" Association="Self.FK_FaturaDetaylar_Faturalar">
+      <End Role="Faturalar" EntitySet="Faturalar" />
+      <End Role="FaturaDetaylar" EntitySet="FaturaDetaylar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Ilceler_Iller" Association="Self.FK_Ilceler_Iller">
+      <End Role="Iller" EntitySet="Iller" />
+      <End Role="Ilceler" EntitySet="Ilceler" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Urunler_Kategoriler" Association="Self.FK_Urunler_Kategoriler">
+      <End Role="Kategoriler" EntitySet="Kategoriler" />
+      <End Role="Urunler" EntitySet="Urunler" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UrunHareketler_Urunler" Association="Self.FK_UrunHareketler_Urunler">
+      <End Role="Urunler" EntitySet="Urunler" />
+      <End Role="UrunHareketler" EntitySet="UrunHareketler" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
